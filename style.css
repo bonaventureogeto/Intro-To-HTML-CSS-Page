@@ -1,0 +1,26 @@
+/* universal selector */
+* {
+    background-color: bisque;
+    font-style: italic;
+    font-size: 40px;
+}
+
+/* tag selector */
+h1 {
+    font-size: 100px;
+}
+
+h2 {
+    font-size: 60px;
+    color: blue;
+}
+
+/* class selector */
+.para1 {
+    background-color: aquamarine;
+    font-style: italic;
+}
+ /* id selector */
+#main-heading {
+    background-color: violet;
+}
